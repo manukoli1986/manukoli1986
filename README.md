@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manukoli1986" alt="manukoli1986" /></a> </p>
 
-- 🔭 I’m currently working on **Telecom Project**
+- 🔭 I’m currently working on **Ecommerce Project**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mayankckoli/](https://www.linkedin.com/in/mayankckoli/)
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://manukoli1986.github.io/cv/](https://manukoli1986.github.io/cv/)
 
-- ⚡ Fun fact **I think I am hilarious so that environment around me become more happy. I crack jokes sometime with collogues.**
+- ⚡ Fun fact **I think I am hilarious so the environment around me becomes more happy. I crack jokes sometimes with collogues.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
